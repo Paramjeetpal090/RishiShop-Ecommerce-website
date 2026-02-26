@@ -6,8 +6,6 @@
 
 ## 🌐 Live Demo
 
-🔗 https://paramjeetpal090.github.io/paramjeet-frontend-developer/
-
 ---
 
 ## 📌 About Me
@@ -29,6 +27,7 @@ I specialize in building clean UI, reusable components, and scalable application
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* TypeScript 
 * React JS
 * Bootstrap
 * Tailwind CSS
@@ -78,7 +77,7 @@ You can download my resume directly from the portfolio website.
 📧 Email:paramjeetpal087email@gmail.com
 📱 Phone: +91 8445992287
 📍 Location: India
-🔗 LinkedIn: (Apna LinkedIn link add karo)
+🔗 LinkedIn:
 
 ---
 
@@ -91,4 +90,4 @@ Please give it a ⭐ on GitHub!
 
 ---
 
-© 2026 Paramjeet Pal | Frontend Developer
+© 2026 Paramjeet Pal | React Developer
