@@ -1,4 +1,4 @@
-import { CREATE_MAINCATEGORY, DELETE_MAINCATEGORY, GET_MAINCATEGORY, UPDATE_MAINCATEGORY } from "../Constant";
+import { CREATE_MAINCATEGORY, DELETE_MAINCATEGORY, GET_MAINCATEGORY, UPDATE_MAINCATEGORY } from "../Services";
 
 
 export function createMaincategory(data){
@@ -7,9 +7,9 @@ export function createMaincategory(data){
         payload:data
     }
 }
-export function getMaincategory(){
+export function getMaincategory(data){
     return{
-        type :GET_MAINCATEGORY_MAINCATEGORY,
+        type: GET_MAINCATEGORY,
         payload:data
     }
 }

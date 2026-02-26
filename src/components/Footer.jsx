@@ -14,6 +14,7 @@ export default function Footer() {
         instagram :import.meta.env.VITE_APP_INSTAGRAM,
         youtube :import.meta.env.VITE_APP_YOUTUBE,  
       })
+      console.log(import.meta.env.VITE_APP_SITE_NAME)
   return (
     <>
     <div className="container-fluid bg-dark text-light mt-5 py-5">
@@ -27,7 +28,7 @@ export default function Footer() {
                     <Link to={settingData.map1} target='_blank' className="d-block text-light mb-2"><i className="bi bi-geo-alt fs-5 text-light me-3"></i>{settingData.address} </Link>
                     <Link to={`mailto:${settingData.email}`} target='_blank' className="d-block text-light mb-2"><i className="bi bi-envelope fs-5 text-light me-3"></i>{settingData.email} </Link>
                     <Link to={`tel:${settingData.phone}`} target='_blank' className="d-block text-light mb-2"><i className="bi bi-telephone text-light me-3"></i>{settingData.phone} </Link>
-                    <Link to={`https://wa.me/${settingData.wha}`} target='_blank' className="d-block text-light mb-2"><i className="bi bi-whatsapp text-light me-3"></i>{settingData.whatsapp} </Link>
+                    <Link to={`https://wa.me/${settingData.whatsapp}`} target='_blank' className="d-block text-light mb-2"><i className="bi bi-whatsapp text-light me-3"></i>{settingData.whatsapp} </Link>
                     
                                 </div>
                 <div className="col-lg-4 col-md-6">

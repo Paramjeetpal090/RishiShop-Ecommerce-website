@@ -75,8 +75,8 @@ You can download my resume directly from the portfolio website.
 
 ## 📬 Contact Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-📱 Phone: +91 XXXXX XXXXX
+📧 Email:paramjeetpal087email@gmail.com
+📱 Phone: +91 8445992287
 📍 Location: India
 🔗 LinkedIn: (Apna LinkedIn link add karo)
 

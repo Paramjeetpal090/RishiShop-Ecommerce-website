@@ -1,6 +1,22 @@
 import {put,takeEvery} from "redux-saga/effects"
-import { CREATE_SETTING,CREATE_SETTING_RED,GET_SETTING,GET_SETTING_RED,UPDATE_SETTING,UPDATE_SETTING_RED,DELETE_SETTING,DELETE_SETTING_RED } from "../Constant"
-import { createRecord,getRecord,deleteRecord } from "./Services/index"
+import {
+  CREATE_SETTING,
+  CREATE_SETTING_RED,
+  GET_SETTING,
+  GET_SETTING_RED,
+  UPDATE_SETTING,
+  UPDATE_SETTING_RED,
+  DELETE_SETTING,
+  DELETE_SETTING_RED
+} from "../Services";
+
+import {
+  createRecord,
+  getRecord,
+  deleteRecord,
+  updateMultipartRecord
+} from "../Services";
+
 // import { createMultipartRecord,getRecord,deleteRecord, updateMultipartRecord, } from "./Services/index"
 
 function* createSaga(action){                                          //Worker Saga

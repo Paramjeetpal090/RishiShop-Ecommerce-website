@@ -26,8 +26,7 @@ let time =(() => {
   if(MaincategoryStateData.length)
     setData(MaincategoryStateData)
   else
-    setData([])   
-  setData(response)
+    setData([])  
 
       let time = setTimeout(()=>{
      new DataTable('#myTable');

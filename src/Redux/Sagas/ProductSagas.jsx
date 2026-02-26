@@ -1,6 +1,6 @@
 import {put,takeEvery} from "redux-saga/effects"
-import { CREATE_PRODUCT,CREATE_PRODUCT_RED,GET_PRODUCT,GET_PRODUCT_RED,UPDATE_PRODUCT,UPDATE_PRODUCT_RED,DELETE_PRODUCT,DELETE_PRODUCT_RED } from "../Constant"
-import { createRecord,getRecord,deleteRecord } from "./Services/index"
+import { CREATE_PRODUCT,CREATE_PRODUCT_RED,GET_PRODUCT,GET_PRODUCT_RED,UPDATE_PRODUCT,UPDATE_PRODUCT_RED,DELETE_PRODUCT,DELETE_PRODUCT_RED } from "../Services"
+import { createRecord,getRecord,deleteRecord } from "../Services"
 // import { createMultipartRecord,getRecord,deleteRecord, updateMultipartRecord, } from "./Services/index"
 
 function* createSaga(action){                                          //Worker Saga

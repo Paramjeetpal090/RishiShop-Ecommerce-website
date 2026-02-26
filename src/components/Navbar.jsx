@@ -82,7 +82,7 @@ export default function Navbar() {
                         <NavLink to="/admin" className="nav-item nav-link">Admin</NavLink>
                         <div className="nav-item dropdown">
                             <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Paramjeet Pal</a>
-                            <div className="dropdown-menu m-0">
+                            <div className="dropdown-menu bg-light text-light m-0">
                                 <NavLink to="/profile" className="dropdown-item">Profile</NavLink>
                                 <NavLink to="/admin" className="dropdown-item">Admin Dashboard</NavLink>
                                 <NavLink to="/profile?option=Orders" className="dropdown-item">Orders</NavLink>

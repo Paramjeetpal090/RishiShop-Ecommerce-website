@@ -1,6 +1,6 @@
 import {put,takeEvery} from "redux-saga/effects"
-import { CREATE_SUBCATEGORY,CREATE_SUBCATEGORY_RED,GET_SUBCATEGORY,GET_SUBCATEGORY_RED,UPDATE_SUBCATEGORY,UPDATE_SUBCATEGORY_RED,DELETE_SUBCATEGORY,DELETE_SUBCATEGORY_RED } from "../Constant"
-import { createRecord,getRecord,deleteRecord } from "./Services/index"
+import { CREATE_SUBCATEGORY,CREATE_SUBCATEGORY_RED,GET_SUBCATEGORY,GET_SUBCATEGORY_RED,UPDATE_SUBCATEGORY,UPDATE_SUBCATEGORY_RED,DELETE_SUBCATEGORY,DELETE_SUBCATEGORY_RED } from "../Services"
+import { createRecord,getRecord,deleteRecord } from "../Services"
 // import { createMultipartRecord,getRecord,deleteRecord, updateMultipartRecord, } from "./Services/index"
 
 function* createSaga(action){                                          //Worker Saga
