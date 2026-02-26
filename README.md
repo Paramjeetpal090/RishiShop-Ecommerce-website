@@ -77,7 +77,7 @@ You can download my resume directly from the portfolio website.
 📧 Email:paramjeetpal087@gmail.com
 📱 Phone: +91 8445992287
 📍 Location: Meerut
-🔗 LinkedIn:https://www.linkedin.com/in/paramjeet-pal-9b7687337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 LinkedIn:https://www.linkedin.com/in/paramjeet-pal-9b7687337
 
 ---
 
