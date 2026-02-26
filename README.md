@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
----
+---http://localhost:5175/
 
 ## 📌 About Me
 
@@ -74,10 +74,10 @@ You can download my resume directly from the portfolio website.
 
 ## 📬 Contact Me
 
-📧 Email:paramjeetpal087email@gmail.com
+📧 Email:paramjeetpal087@gmail.com
 📱 Phone: +91 8445992287
-📍 Location: India
-🔗 LinkedIn:
+📍 Location: Meerut
+🔗 LinkedIn:https://www.linkedin.com/in/paramjeet-pal-9b7687337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
